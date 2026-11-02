@@ -312,7 +312,7 @@ Open the Tomcat directory in Visual Studio Code:
 D:\Downloads\apache-tomcat-10.1.61
 ```
 
-Save `CalculatorServlet.java` in the `hello-src` folder using UTF-8 encoding.
+Save `CalculatorServlet.java` using UTF-8 encoding.
 
 ### 2. Prepare the Deployment Directory
 
@@ -343,7 +343,7 @@ Keep the terminal open while using the application.
 
 Visit [http://localhost:8080/hello/calculator](http://localhost:8080/hello/calculator).
 
-Enter two numbers, select an operation, and click **হিসাব করুন** to calculate the result.
+Enter two numbers, select an operation, and click to calculate the result.
 
 ## Working Procedure
 
